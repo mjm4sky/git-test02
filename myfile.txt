@@ -2,3 +2,5 @@
 
 issue3에서 추가한 myfile
 
+remote에서 직접 수정한 내용.
+
